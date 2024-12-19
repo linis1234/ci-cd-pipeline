@@ -1,4 +1,4 @@
 # cid-cd
 <br>
 cloud lab
-hello welcome
+hello welcome to the lab
